@@ -17,6 +17,13 @@ Core Features
 • Hardware Reporting: Generates a detailed technical report including CPU, GPU, RAM specifications, and network configuration.
 • System Cleanup: Automates the removal of temporary files (Temp), Prefetch data, and WinSxS backup folders.
 • Driver Management: Utilizes the pnputil tool to scan and verify the status of installed hardware drivers.
+
+
+
+
+
+
+
 النسخة العربية
 مجموعة أدوات تحسين الأداء والألعاب القصوى
 مجموعة أدوات متقدمة تعمل عبر واجهة الأوامر السطرية تم تطويرها لرفع كفاءة نظام التشغيل ويندوز إلى أقصى حد ممكن. تركز هذه الأداة على تقليل زمن الاستجابة، إدارة العمليات، وتخصيص موارد الأجهزة لتوفير بيئة مثالية للألعاب المتطلبة وسير العمل الاحترافي.
