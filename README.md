@@ -1,3 +1,4 @@
+![Ultimate Performance Suite](image.png)
 English Version
 Ultimate Performance and Gaming Optimization Suite
 An advanced command-line interface (CLI) suite developed to maximize Windows operating system efficiency. This tool focuses on latency reduction, process management, and hardware resource allocation to provide an optimal environment for high-end gaming and professional workloads.
